@@ -1,0 +1,5 @@
+.idea
+dist/*
+*.pyc
+aga8_python.egg-info
+.python-version
