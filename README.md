@@ -7,5 +7,8 @@
 # Test
 `python tests.py`
 
+# mypy
+`python -m build`
+
 # Original source
 https://github.com/usnistgov/AGA8
